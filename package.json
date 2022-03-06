@@ -1,0 +1,17 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-s7": "~3.0.0",
+        "node-red-contrib-s7comm": "~1.1.6",
+        "node-red-contrib-sysmessage": "^1.1.2",
+        "node-red-contrib-ui-clock": "~1.0.2",
+        "node-red-contrib-ui-digital-display": "~1.0.3",
+        "node-red-contrib-ui-led": "~0.4.11",
+        "node-red-contrib-ui-level": "~0.1.46",
+        "node-red-contrib-ui-media": "^2.0.0",
+        "node-red-dashboard": "^2.30.0"
+    }
+}
